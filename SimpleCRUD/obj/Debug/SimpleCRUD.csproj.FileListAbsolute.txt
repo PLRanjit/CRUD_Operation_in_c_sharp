@@ -1,0 +1,12 @@
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\bin\Debug\CustInfo.mdf
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\bin\Debug\CustInfo_log.ldf
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe.config
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.pdb
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.frmMain.resources
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Login.resources
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Properties.Resources.resources
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.GenerateResource.cache
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.exe
+D:\Visual_Studio_project\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.pdb
